@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![hhh](https://github.com/goswami-rahul/alien-invasion-game/blob/master/assets/demo.gif)
 
 ### 承接
-> 某音数据抓取，个人信息，作品
-> 某红书数据抓取，个人信息，作品
-> 某信数据抓取，公众号，空间
-> 某付宝数据抓取，订单信息抓取
-> 脱壳（企业壳修复）
+> 1. 某音数据抓取，个人信息，作品
+> 2. 某红书数据抓取，个人信息，作品
+> 3. 某信数据抓取，公众号，空间
+> 4. 某付宝数据抓取，订单信息抓取
+> 5. 脱壳（企业壳修复）
