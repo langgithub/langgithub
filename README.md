@@ -23,3 +23,11 @@ Here are some ideas to get you started:
 > 3. 某信数据抓取，公众号，空间
 > 4. 某付宝数据抓取，订单信息抓取
 > 5. 脱壳（企业壳修复）
+
+### sekiro全家桶(sekiro 群控不迷路)
+# sekiro-ios https://github.com/langgithub/SekiroIOS
+# sekiro-Android https://github.com/langgithub/sekiro-lang
+# sekiro-python https://github.com/langgithub/SekiroPython
+# sekiro-java https://github.com/langgithub/unidbg-lang
+# sekiro-unidbg https://github.com/langgithub/unidbg-lang
+# sekiro-frida https://github.com/langgithub/FridaInject
