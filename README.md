@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 > * sekiro-java https://github.com/langgithub/unidbg-lang
 > * sekiro-unidbg https://github.com/langgithub/unidbg-lang
 > * sekiro-frida https://github.com/langgithub/FridaInject
+> * sekiro-xposed https://github.com/langgithub/hello
